@@ -172,11 +172,6 @@ plot(polkadot_Rules, method="graph", engine="htmlwidget")
 itemFrequencyPlot(arm, topN=20, type="absolute")
 ```
 
-
-Aravindh Saravanan
-4:20 PM (11 minutes ago)
-to me
-
 # Clustering - Hierarchical
 
 # Create the corpus manually and now load them
